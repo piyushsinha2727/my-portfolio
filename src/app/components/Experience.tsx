@@ -3,6 +3,19 @@ import "./Portfolio.css";
 
 export function Experience() {
   const experiences = [
+     {
+  title: "Project Dashboard & KPI Analysis (Academic Practical)",
+  organization: "Siemens – Metroville Urban Rail Expansion (Case Study)",
+  date: " 5th Semester",
+  description: "Developed an Excel-based project tracker and dashboard by synthesizing updates from engineering, field, and community teams. Defined and applied KPIs across technical feasibility, environmental sustainability, and community acceptance. Visualized construction progress, electrification milestones, budget variance, and community feedback using charts and structured metrics to support stakeholder decision-making."
+}
+{
+  title: "Software Engineering Simulation",
+  organization: "JPMorgan Chase & Co. – Forage",
+  date: "Jan 2026",
+  description: "Built a Spring Boot microservice handling real-time financial transactions using Kafka, REST APIs, and JPA as part of an industry-grade software engineering simulation."
+}
+
   {
     title: "Member of Editorial Board",
     organization: "'SPANDAN' BIT Mesra's E-Magazine",
